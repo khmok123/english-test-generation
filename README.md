@@ -7,7 +7,7 @@ The code does not work for vocabulary exercise currently, since webscraping usin
 The Jupyter notebooks are not needed for the code to work. They are there simply for the testing of the codes. 
 
 # Samples
-![alt text](https://github.com/khmok123/english-test-generation/blob/main/samples/1.png?raw=true)
-![alt text](https://github.com/khmok123/english-test-generation/blob/main/samples/2.png?raw=true)
-![alt text](https://github.com/khmok123/english-test-generation/blob/main/samples/3.png?raw=true)
+![alt text](https://github.com/khmok123/english-test-generation/blob/main/samples/1.png)
+![alt text](https://github.com/khmok123/english-test-generation/blob/main/samples/2.png)
+![alt text](https://github.com/khmok123/english-test-generation/blob/main/samples/3.png)
 
