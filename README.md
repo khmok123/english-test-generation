@@ -5,3 +5,6 @@ I worked on this project during being a tutor in a tutorial center. This project
 The code does not work for vocabulary exercise currently, since webscraping using BeautifulSoup on the website yourdictionary.com is involved and the HTML structure of the website has changed. The reading comprehension part is still incomplete for now.
 
 The Jupyter notebooks are not needed for the code to work. They are there simply for the testing of the codes. 
+
+# Samples
+
